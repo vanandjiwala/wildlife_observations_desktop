@@ -13,7 +13,10 @@ if __name__ == '__main__':
     db.create_tables()
 
     # GET ALL SPECIES
-    db.get_species()
+    all_species = db.get_species()
+    print(all_species)
+
+
 
     # GET SPECIES COMMON NAME FOR DROPDOWN
     desired_columns = ['common_name']
@@ -22,13 +25,23 @@ if __name__ == '__main__':
     }
 
     # GET COMMON NAMES FOR
-    db.get_common_names()
+    dropdown_options = db.get_common_names()
+    # Make sure that user has uploaded species data
+    if len(dropdown_options) == 0:
+        print("User must upload species list")
 
+    #Get scientific name based on the ID
     db.get_scientific_name(1)
 
 
     #Add Observations
-
+    observation_values = {
+        'species_id' : 6 ,
+        'country'    : 'India',
+        'state'      : 'Gujarat',
+        'place'      : 'GRK'
+    }
+    db.create_observation(values = observation_values)
 
 
     # GET DATA BASED ON COLUMNS
