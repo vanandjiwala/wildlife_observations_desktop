@@ -1,0 +1,1471 @@
+id,common_name,scientific_name
+1,Lesser whistling duck,Dendrocygna javanica
+2,Red-breasted goose,Branta ruficollis
+3,Bar-headed goose,Anser indicus
+4,Greylag goose,Anser anser
+5,Taiga bean-goose,Anser fabalis
+6,Tundra bean-goose,Anser serrirostris
+7,Greater white-fronted goose,Anser albifrons
+8,Lesser white-fronted goose,Anser erythropus
+9,Mute swan,Cygnus olor
+10,Tundra swan,Cygnus columbianus
+11,Whooper swan,Cygnus cygnus
+12,Knob-billed duck,Sarkidiornis melanotos
+13,Common shelduck,Tadorna tadorna
+14,Ruddy shelduck,Tadorna ferruginea
+15,White-winged duck,Asarcornis scutulata
+16,Mandarin duck,Aix galericulata
+17,Cotton pygmy-goose,Nettapus coromandelianus
+18,Baikal teal,Sibirionetta formosa
+19,Garganey,Spatula querquedula
+20,Northern shoveler,Spatula clypeata
+21,Gadwall,Mareca strepera
+22,Falcated duck,Mareca falcata
+23,Eurasian wigeon,Mareca penelope
+24,Indian spot-billed duck,Anas poecilorhyncha
+25,Eastern spot-billed duck,Anas zonorhyncha
+26,Mallard,Anas platyrhynchos
+27,Northern pintail,Anas acuta
+28,Eurasian teal,Anas crecca
+29,Andaman teal,Anas albogularis
+30,Marbled duck,Marmaronetta angustirostris
+31,Pink-headed duck,Netta caryophyllacea
+32,Red-crested pochard,Netta rufina
+33,Common pochard,Aythya ferina
+34,Baer's pochard,Aythya baeri
+35,Ferruginous duck,Aythya nyroca
+36,Tufted duck,Aythya fuligula
+37,Greater scaup,Aythya marila
+38,Long-tailed duck,Clangula hyemalis
+39,Common goldeneye,Bucephala clangula
+40,Smew,Mergellus albellus
+41,Common merganser,Mergus merganser
+42,Red-breasted merganser,Mergus serrator
+43,White-headed duck,Oxyura leucocephala
+44,Common name,Binomial
+45,Nicobar scrubfowl,Megapodius nicobariensis
+46,Common name,Binomial
+47,Snow partridge,Lerwa lerwa
+48,Himalayan snowcock,Tetraogallus himalayensis
+49,Tibetan snowcock,Tetraogallus tibetanus
+50,Chukar partridge,Alectoris chukar
+51,Black francolin,Francolinus francolinus
+52,Painted francolin,Francolinus pictus
+53,Chinese francolin,Francolinus pintadeanus
+54,Grey francolin,Francolinus pondicerianus
+55,Swamp francolin,Francolinus gularis
+56,Tibetan partridge,Perdix hodgsoniae
+57,Common quail,Coturnix coturnix
+58,Japanese quail,Coturnix japonica
+59,Rain quail,Coturnix coromandelica
+60,King quail,Excalfactoria chinensis
+61,Jungle bush quail,Perdicula asiatica
+62,Rock bush quail,Perdicula argoondah
+63,Painted bush quail,Perdicula erythrorhyncha
+64,Manipur bush quail,Perdicula manipurensis
+65,Himalayan quail,Ophrysia superciliosa
+66,Hill partridge,Arborophila torqueola
+67,Rufous-throated partridge,Arborophila rufogularis
+68,White-cheeked partridge,Arborophila atrogularis
+69,Chestnut-breasted partridge,Arborophila mandellii
+70,Mountain bamboo partridge,Bambusicola fytchii
+71,Red spurfowl,Galloperdix spadicea
+72,Painted spurfowl,Galloperdix lunulata
+73,Blood pheasant,Ithaginis cruentus
+74,Western tragopan,Tragopan melanocephalus
+75,Satyr tragopan,Tragopan satyra
+76,Blyth's tragopan,Tragopan blythii
+77,Temminck's tragopan,Tragopan temminckii
+78,Koklass pheasant,Pucrasia macrolopha
+79,Himalayan monal,Lophophorus impejanus
+80,Sclater's monal,Lophophorus sclateri
+81,Red junglefowl,Gallus gallus
+82,Grey junglefowl,Gallus sonneratii
+83,Kalij pheasant,Lophura leucomelanos
+84,Cheer pheasant,Catreus wallichii
+85,Mrs. Hume's pheasant,Syrmaticus humiae
+86,Tibetan eared pheasant,Crossoptilon harmani
+87,Grey peacock-pheasant,Polyplectron bicalcaratum
+88,Indian peafowl,Pavo cristatus
+89,Green peafowl,Pavo muticus
+90,Common name,Binomial
+91,Red-throated loon,Gavia stellata
+92,Black-throated loon,Gavia arctica
+93,Common name,Binomial
+94,Wilson's storm petrel,Oceanites oceanicus
+95,White-faced storm petrel,Pelagodroma marina
+96,White-bellied storm petrel,Fregetta grallaria
+97,Black-bellied storm petrel,Fregetta tropica
+98,Common name,Binomial
+99,Swinhoe's storm petrel,Oceanodroma monorhis
+100,Common name,Binomial
+101,Cape petrel,Daption capense
+102,Barau's petrel,Pterodroma baraui
+103,Streaked shearwater,Calonectris leucomelas
+104,Scopoli's shearwater,Calonectris diomedea
+105,Cory's shearwater,Calonectris borealis
+106,Wedge-tailed shearwater,Ardenna pacifica
+107,Short-tailed shearwater,Ardenna tenuirostris
+108,Flesh-footed shearwater,Ardenna carneipes
+109,Persian shearwater,Puffinus persicus
+110,Tropical shearwater,Puffinus bailloni
+111,Jouanin's petrel,Bulweria fallax
+112,Common name,Binomial
+113,Little grebe,Tachybaptus ruficollis
+114,Red-necked grebe,Podiceps grisegena
+115,Great crested grebe,Podiceps cristatus
+116,Horned grebe,Podiceps auritus
+117,Black-necked grebe,Podiceps nigricollis
+118,Common name,Binomial
+119,Greater flamingo,Phoenicopterus roseus
+120,Lesser flamingo,Phoeniconaias minor
+121,Common name,Binomial
+122,Red-billed tropicbird,Phaethon aethereus
+123,Red-tailed tropicbird,Phaethon rubricauda
+124,White-tailed tropicbird,Phaethon lepturus
+125,Common name,Binomial
+126,Painted stork,Mycteria leucocephala
+127,Asian openbill,Anastomus oscitans
+128,Black stork,Ciconia nigra
+129,Woolly-necked stork,Ciconia episcopus
+130,White stork,Ciconia ciconia
+131,Black-necked stork,Ephippiorhynchus asiaticus
+132,Lesser adjutant,Leptoptilos javanicus
+133,Greater adjutant,Leptoptilos dubius
+134,Common name,Binomial
+135,Black-headed ibis,Threskiornis melanocephalus
+136,Red-naped ibis,Pseudibis papillosa
+137,Glossy ibis,Plegadis falcinellus
+138,Eurasian spoonbill,Platalea leucorodia
+139,Common name,Binomial
+140,Eurasian bittern,Botaurus stellaris
+141,Little bittern,Ixobrychus minutus
+142,Yellow bittern,Ixobrychus sinensis
+143,Cinnamon bittern,Ixobrychus cinnamomeus
+144,Black bittern,Ixobrychus flavicollis
+145,White-eared night heron,Gorsachius magnificus
+146,Malayan night heron,Gorsachius melanolophus
+147,Black-crowned night heron,Nycticorax nycticorax
+148,Striated heron,Butorides striata
+149,Indian pond heron,Ardeola grayii
+150,Chinese pond heron,Ardeola bacchus
+151,Javan pond heron,Ardeola speciosa
+152,Eastern cattle egret,Bubulcus coromandus
+153,Grey heron,Ardea cinerea
+154,White-bellied heron,Ardea insignis
+155,Great-billed heron,Ardea sumatrana
+156,Goliath heron,Ardea goliath
+157,Purple heron,Ardea purpurea
+158,Great egret,Ardea alba
+159,Intermediate egret,Ardea intermedia
+160,Little egret,Egretta garzetta
+161,Western reef heron,Egretta gularis
+162,Pacific reef heron,Egretta sacra
+163,Chinese egret,Egretta eulophotes
+164,Common name,Binomial
+165,Great white pelican,Pelecanus onocrotalus
+166,Spot-billed pelican,Pelecanus philippensis
+167,Dalmatian pelican,Pelecanus crispus
+168,Common name,Binomial
+169,Christmas frigatebird,Fregata andrewsi
+170,Great frigatebird,Fregata minor
+171,Lesser frigatebird,Fregata ariel
+172,Common name,Binomial
+173,Masked booby,Sula dactylatra
+174,Red-footed booby,Sula sula
+175,Brown booby,Sula leucogaster
+176,Common name,Binomial
+177,Little cormorant,Microcarbo niger
+178,Indian cormorant,Phalacrocorax fuscicollis
+179,Great cormorant,Phalacrocorax carbo
+180,Common name,Binomial
+181,Oriental darter,Anhinga melanogaster
+182,Common name,Binomial
+183,Western osprey,Pandion haliaetus
+184,Common name,Binomial
+185,Black-winged kite,Elanus caeruleus
+186,Bearded vulture,Gypaetus barbatus
+187,Egyptian vulture,Neophron percnopterus
+188,Crested honey buzzard,Pernis ptilorhynchus
+189,Jerdon's baza,Aviceda jerdoni
+190,Black baza,Aviceda leuphotes
+191,White-rumped vulture,Gyps bengalensis
+192,Indian vulture,Gyps indicus
+193,Slender-billed vulture,Gyps tenuirostris
+194,Himalayan vulture,Gyps himalayensis
+195,Griffon vulture,Gyps fulvus
+196,Red-headed vulture,Sarcogyps calvus
+197,Cinereous vulture,Aegypius monachus
+198,Crested serpent eagle,Spilornis cheela
+199,Great Nicobar serpent eagle,Spilornis klossi
+200,Andaman serpent eagle,Spilornis elgini
+201,Short-toed snake eagle,Circaetus gallicus
+202,Changeable hawk-eagle,Nisaetus cirrhatus
+203,Mountain hawk-eagle,Nisaetus nipalensis
+204,Legge's hawk-eagle,Nisaetus kelaarti[11]
+205,Rufous-bellied hawk-eagle,Lophotriorchis kienerii
+206,Black eagle,Ictinaetus malaiensis
+207,Indian spotted eagle,Clanga hastata
+208,Greater spotted eagle,Clanga clanga
+209,Booted eagle,Hieraaetus pennatus[12]
+210,Tawny eagle,Aquila rapax
+211,Steppe eagle,Aquila nipalensis
+212,Eastern imperial eagle,Aquila heliaca
+213,Golden eagle,Aquila chrysaetos
+214,Bonelli's eagle,Aquila fasciata
+215,Crested goshawk,Accipiter trivirgatus
+216,Shikra,Accipiter badius
+217,Nicobar sparrowhawk,Accipiter butleri
+218,Chinese sparrowhawk,Accipiter soloensis
+219,Japanese sparrowhawk,Accipiter gularis
+220,Besra,Accipiter virgatus
+221,Eurasian sparrowhawk,Accipiter nisus
+222,Northern goshawk,Accipiter gentilis
+223,Western marsh harrier,Circus aeruginosus
+224,Eastern marsh harrier,Circus spilonotus
+225,Hen harrier,Circus cyaneus
+226,Pallid harrier,Circus macrourus
+227,Pied harrier,Circus melanoleucos
+228,Montagu's harrier,Circus pygargus
+229,Red kite,Milvus milvus
+230,Black kite,Milvus migrans
+231,Brahminy kite,Haliastur indus
+232,White-bellied sea eagle,Haliaeetus leucogaster
+233,Pallas's fish eagle,Haliaeetus leucoryphus
+234,White-tailed eagle,Haliaeetus albicilla
+235,Lesser fish eagle,Haliaeetus humilis
+236,Grey-headed fish eagle,Haliaeetus ichthyaetus
+237,White-eyed buzzard,Butastur teesa
+238,Grey-faced buzzard,Butastur indicus
+239,Upland buzzard,Buteo hemilasius
+240,Himalayan buzzard,Buteo burmanicus
+241,Long-legged buzzard,Buteo rufinus
+242,Common buzzard,Buteo buteo
+243,Common name,Binomial
+244,Great Indian bustard,Ardeotis nigriceps
+245,MacQueen's bustard,Chlamydotis macqueenii
+246,Bengal florican,Houbaropsis bengalensis
+247,Lesser florican,Sypheotides indicus
+248,Little bustard,Tetrax tetrax
+249,Common name,Binomial
+250,Masked finfoot,Heliopais personata
+251,Common name,Binomial
+252,Andaman crake,Rallina canningi
+253,Slaty-legged crake,Rallina eurizonoides
+254,Slaty-breasted rail,Gallirallus striatus
+255,Water rail,Rallus aquaticus
+256,Brown-cheeked rail,Rallus indicus
+257,Corn crake,Crex crex
+258,Brown crake,Amaurornis akool
+259,White-breasted waterhen,Amaurornis phoenicurus
+260,Black-tailed crake,Porzana bicolor
+261,Little crake,Porzana parva
+262,Baillon's crake,Porzana pusilla
+263,Spotted crake,Porzana porzana
+264,Ruddy-breasted crake,Porzana fusca
+265,White-browed crake,Porzana cinerea
+266,Watercock,Gallicrex cinerea
+267,Grey-headed swamphen,Porphyrio poliocephalus
+268,Common moorhen,Gallinula chloropus
+269,Eurasian coot,Fulica atra
+270,Common name,Binomial
+271,Siberian crane,Leucogeranus leucogeranus
+272,Sarus crane,Antigone antigone
+273,Demoiselle crane,Grus virgo
+274,Common crane,Grus grus
+275,Black-necked crane,Grus nigricollis
+276,Common name,Binomial
+277,Common buttonquail,Turnix sylvaticus
+278,Yellow-legged buttonquail,Turnix tanki
+279,Barred buttonquail,Turnix suscitator
+280,Common name,Binomial
+281,Indian stone-curlew,Burhinus indicus
+282,Great stone-curlew,Esacus recurvirostris
+283,Beach stone-curlew,Esacus magnirostris
+284,Common name,Binomial
+285,Eurasian oystercatcher,Haematopus ostralegus
+286,Common name,Binomial
+287,Crab-plover,Dromas ardeola
+288,Common name,Binomial
+289,Ibisbill,Ibidorhyncha struthersii
+290,Common name,Binomial
+291,Black-winged stilt,Himantopus himantopus
+292,Pied avocet,Recurvirostra avosetta
+293,Common name,Binomial
+294,Northern lapwing,Vanellus vanellus
+295,River lapwing,Vanellus duvaucelii
+296,Yellow-wattled lapwing,Vanellus malabaricus
+297,Grey-headed lapwing,Vanellus cinereus
+298,Red-wattled lapwing,Vanellus indicus
+299,Sociable lapwing,Vanellus gregarius
+300,White-tailed lapwing,Vanellus leucurus
+301,European golden plover,Pluvialis apricaria
+302,American golden plover,Pluvialis dominica
+303,Pacific golden plover,Pluvialis fulva
+304,Grey plover,Pluvialis squatarola
+305,Common ringed plover,Charadrius hiaticula
+306,Long-billed plover,Charadrius placidus
+307,Little ringed plover,Charadrius dubius
+308,Kentish plover,Charadrius alexandrinus
+309,White-faced plover,Charadrius alexandrinus dealbatus
+310,Lesser sand plover,Charadrius mongolus
+311,Greater sand plover,Charadrius leschenaultii
+312,Caspian plover,Charadrius asiaticus
+313,Oriental plover,Charadrius veredus
+314,Common name,Binomial
+315,Greater painted-snipe,Rostratula benghalensis
+316,Common name,Binomial
+317,Pheasant-tailed jacana,Hydrophasianus chirurgus
+318,Bronze-winged jacana,Metopidius indicus
+319,Common name,Binomial
+320,Eurasian whimbrel,Numenius phaeopus
+321,Eurasian curlew,Numenius arquata
+322,Bar-tailed godwit,Limosa lapponica
+323,Black-tailed godwit,Limosa limosa
+324,Ruddy turnstone,Arenaria interpres
+325,Great knot,Calidris tenuirostris
+326,Red knot,Calidris canutus
+327,Ruff,Calidris pugnax
+328,Broad-billed sandpiper,Calidris falcinellus
+329,Sharp-tailed sandpiper,Calidris acuminata
+330,Curlew sandpiper,Calidris ferruginea
+331,Temminck's stint,Calidris temminckii
+332,Long-toed stint,Calidris subminuta
+333,Spoon-billed sandpiper,Calidris pygmeus
+334,Red-necked stint,Calidris ruficollis
+335,Sanderling,Calidris alba
+336,Dunlin,Calidris alpina
+337,Little stint,Calidris minuta
+338,Buff-breasted sandpiper,Calidris subruficollis
+339,Pectoral sandpiper,Calidris melanotos
+340,Asian dowitcher,Limnodromus semipalmatus
+341,Long-billed dowitcher,Limnodromus scolopaceus
+342,Eurasian woodcock,Scolopax rusticola
+343,Jack snipe,Lymnocryptes minimus
+344,Solitary snipe,Gallinago solitaria
+345,Wood snipe,Gallinago nemoricola
+346,Pin-tailed snipe,Gallinago stenura
+347,Swinhoe's snipe,Gallinago megala
+348,Great snipe,Gallinago media
+349,Common snipe,Gallinago gallinago
+350,Terek sandpiper,Xenus cinereus
+351,Red-necked phalarope,Phalaropus lobatus
+352,Red phalarope,Phalaropus fulicarius
+353,Common sandpiper,Actitis hypoleucos
+354,Green sandpiper,Tringa ochropus
+355,Grey-tailed tattler,Tringa brevipes
+356,Common redshank,Tringa totanus
+357,Marsh sandpiper,Tringa stagnatilis
+358,Wood sandpiper,Tringa glareola
+359,Spotted redshank,Tringa erythropus
+360,Common greenshank,Tringa nebularia
+361,Common name,Binomial
+362,Cream-coloured courser,Cursorius cursor
+363,Indian courser,Cursorius coromandelicus
+364,Jerdon's courser,Rhinoptilus bitorquatus
+365,Collared pratincole,Glareola pratincola
+366,Oriental pratincole,Glareola maldivarum
+367,Small pratincole,Glareola lactea
+368,Common name,Binomial
+369,Brown noddy,Anous stolidus
+370,Lesser noddy,Anous tenuirostris
+371,Black noddy,Anous minutus
+372,White tern,Gygis alba
+373,Indian skimmer,Rynchops albicollis
+374,Black-legged kittiwake,Rissa tridactyla
+375,Sabine's gull,Xema sabini
+376,Slender-billed gull,Chroicocephalus genei
+377,Brown-headed gull,Chroicocephalus brunnicephalus
+378,Black-headed gull,Chroicocephalus ridibundus
+379,Little gull,Hydrocoloeus minutus
+380,Franklin's gull,Leucophaeus pipixcan
+381,Pallas's gull,Ichthyaetus ichthyaetus
+382,White-eyed gull,Ichthyaetus leucophthalmus
+383,Sooty gull,Ichthyaetus hemprichii
+384,Mew gull,Larus canus
+385,Vega gull,Larus vegae
+386,Caspian gull,Larus cachinnans
+387,Lesser black-backed gull,Larus fuscus
+388,Gull-billed tern,Gelochelidon nilotica
+389,Caspian tern,Hydroprogne caspia
+390,Greater crested tern,Thalasseus bergii
+391,Lesser crested tern,Thalasseus bengalensis
+392,Sandwich tern,Thalasseus sandvicensis
+393,Little tern,Sternula albifrons
+394,Saunders's tern,Sternula saundersi
+395,Bridled tern,Onychoprion anaethetus
+396,Sooty tern,Onychoprion fuscatus
+397,River tern,Sterna aurantia
+398,Roseate tern,Sterna dougallii
+399,Black-naped tern,Sterna sumatrana
+400,Common tern,Sterna hirundo
+401,White-cheeked tern,Sterna repressa
+402,Arctic tern,Sterna paradisaea
+403,Black-bellied tern,Sterna acuticauda
+404,Whiskered tern,Chlidonias hybrida
+405,White-winged tern,Chlidonias leucopterus
+406,Black tern,Chlidonias niger
+407,Common name,Binomial
+408,South polar skua,Stercorarius maccormicki
+409,Brown skua,Stercorarius antarcticus
+410,Pomarine jaeger,Stercorarius pomarinus
+411,Parasitic jaeger,Stercorarius parasiticus
+412,Long-tailed jaeger,Stercorarius longicaudus
+413,Common name,Binomial
+414,Tibetan sandgrouse,Syrrhaptes tibetanus
+415,Pallas's sandgrouse,Syrrhaptes paradoxus
+416,Pin-tailed sandgrouse,Pterocles alchata
+417,Chestnut-bellied sandgrouse,Pterocles exustus
+418,Spotted sandgrouse,Pterocles senegallus
+419,Black-bellied sandgrouse,Pterocles orientalis
+420,Painted sandgrouse,Pterocles indicus
+421,Common name,Binomial
+422,Rock dove,Columba livia
+423,Hill pigeon,Columba rupestris
+424,Snow pigeon,Columba leuconota
+425,Yellow-eyed pigeon,Columba eversmanni
+426,Common wood pigeon,Columba palumbus
+427,Speckled wood pigeon,Columba hodgsonii
+428,Ashy wood pigeon,Columba pulchricollis
+429,Nilgiri wood pigeon,Columba elphinstonii
+430,Pale-capped pigeon,Columba punicea
+431,Andaman wood pigeon,Columba palumboides
+432,European turtle dove,Streptopelia turtur
+433,Oriental turtle dove,Streptopelia orientalis
+434,Eurasian collared dove,Streptopelia decaocto
+435,Red turtle dove,Streptopelia tranquebarica
+436,Spotted dove,Spilopelia chinensis
+437,Laughing dove,Spilopelia senegalensis
+438,Barred cuckoo-dove,Macropygia unchall
+439,Andaman cuckoo-dove,Macropygia rufipennis
+440,Namaqua dove,Oena capensis
+441,Common emerald dove,Chalcophaps indica
+442,Nicobar pigeon,Caloenas nicobarica
+443,Orange-breasted green pigeon,Treron bicinctus
+444,Grey-fronted green pigeon,Treron affinis
+445,Ashy-headed green pigeon,Treron phayrei
+446,Andaman green pigeon,Treron chloropterus
+447,Thick-billed green pigeon,Treron curvirostra
+448,Yellow-footed green pigeon,Treron phoenicopterus
+449,Pin-tailed green pigeon,Treron apicauda
+450,Wedge-tailed green pigeon,Treron sphenurus
+451,Green imperial pigeon,Ducula aenea
+452,Nicobar imperial pigeon,Ducula nicobarica
+453,Mountain imperial pigeon,Ducula badia
+454,Pied imperial pigeon,Ducula bicolor
+455,Common name,Binomial
+456,Greater coucal,Centropus sinensis
+457,Lesser coucal,Centropus bengalensis
+458,Andaman coucal,Centropus andamanensis
+459,Sirkeer malkoha,Taccocua leschenaultii
+460,Blue-faced malkoha,Phaenicophaeus viridirostris
+461,Green-billed malkoha,Phaenicophaeus tristis
+462,Chestnut-winged cuckoo,Clamator coromandus
+463,Jacobin cuckoo,Clamator jacobinus
+464,Asian koel,Eudynamys scolopaceus
+465,Asian emerald cuckoo,Chrysococcyx maculatus
+466,Violet cuckoo,Chrysococcyx xanthorhynchus
+467,Horsfield's bronze cuckoo,Chrysococcyx basalis
+468,Banded bay cuckoo,Cacomantis sonneratii
+469,Plaintive cuckoo,Cacomantis merulinus
+470,Grey-bellied cuckoo,Cacomantis passerinus
+471,Square-tailed drongo-cuckoo,Surniculus lugubris
+472,Fork-tailed drongo-cuckoo,Surniculus dicruroides
+473,Large hawk-cuckoo,Hierococcyx sparverioides
+474,Common hawk-cuckoo,Hierococcyx varius
+475,Hodgson's hawk-cuckoo,Hierococcyx nisicolor
+476,Lesser cuckoo,Cuculus poliocephalus
+477,Indian cuckoo,Cuculus micropterus
+478,Himalayan cuckoo,Cuculus saturatus
+479,Common cuckoo,Cuculus canorus
+480,Common name,Binomial
+481,Western barn owl,Tyto alba
+482,Eastern barn owl,Tyto javanica
+483,Andaman masked owl,Tyto deroepstorffi
+484,Eastern grass owl,Tyto longimembris
+485,Oriental bay owl,Phodilus badius
+486,Sri Lanka bay owl,Phodilus assimilis
+487,Common name,Binomial
+488,Andaman scops owl,Otus balli
+489,Mountain scops owl,Otus spilocephalus
+490,Indian scops owl,Otus bakkamoena
+491,Collared scops owl,Otus lettia
+492,Pallid scops owl,Otus brucei
+493,Eurasian scops owl,Otus scops
+494,Oriental scops owl,Otus sunia
+495,Nicobar scops owl,Otus alius
+496,Eurasian eagle-owl,Bubo bubo
+497,Indian eagle-owl,Bubo bengalensis
+498,Spot-bellied eagle-owl,Bubo nipalensis
+499,Dusky eagle-owl,Bubo coromandus
+500,Brown fish owl,Ketupa zeylonensis
+501,Tawny fish owl,Ketupa flavipes
+502,Buffy fish owl,Ketupa ketupu
+503,Mottled wood owl,Strix ocellata
+504,Brown wood owl,Strix leptogrammica
+505,Tawny owl,Strix aluco
+506,Himalayan owl,Strix nivicolum
+507,Collared owlet,Glaucidium brodiei
+508,Asian barred owlet,Glaucidium cuculoides
+509,Jungle owlet,Glaucidium radiatum
+510,Little owl,Athene noctua
+511,Spotted owlet,Athene brama
+512,Forest owlet,Athene blewitti
+513,Boreal owl,Aegolius funereus
+514,Brown hawk-owl,Ninox scutulata
+515,Hume's hawk-owl,Ninox obscura
+516,Andaman hawk-owl,Ninox affinis
+517,Long-eared owl,Asio otus
+518,Short-eared owl,Asio flammeus
+519,Common name,Binomial
+520,Sri Lanka frogmouth,Batrachostomus moniliger
+521,Hodgson's frogmouth,Batrachostomus hodgsoni
+522,Common name,Binomial
+523,Great eared nightjar,Lyncornis macrotis
+524,Jungle nightjar,Caprimulgus indicus
+525,Grey nightjar,Caprimulgus jotaka
+526,European nightjar,Caprimulgus europaeus
+527,Sykes's nightjar,Caprimulgus mahrattensis
+528,Jerdon's nightjar,Caprimulgus atripennis
+529,Large-tailed nightjar,Caprimulgus macrurus
+530,Andaman nightjar,Caprimulgus andamanicus
+531,Indian nightjar,Caprimulgus asiaticus
+532,Savanna nightjar,Caprimulgus affinis
+533,Common name,Binomial
+534,Crested treeswift,Hemiprocne coronata
+535,Common name,Binomial
+536,Plume-toed swiftlet,Collocalia affinis
+537,Indian swiftlet,Aerodramus unicolor
+538,Himalayan swiftlet,Aerodramus brevirostris
+539,Edible-nest swiftlet,Aerodramus fuciphagus
+540,White-rumped spinetail,Zoonavena sylvatica
+541,White-throated needletail,Hirundapus caudacutus
+542,Silver-backed needletail,Hirundapus cochinchinensis
+543,Brown-backed needletail,Hirundapus giganteus
+544,Asian palm swift,Cypsiurus balasiensis
+545,Alpine swift,Tachymarptis melba
+546,Common swift,Apus apus
+547,Pallid swift,Apus pallidus
+548,Pacific swift,Apus pacificus ssp. kurodae
+549,Salim Ali's swift,Apus salimalii
+550,Blyth's swift,Apus leuconyx
+551,Dark-rumped swift,Apus acuticauda
+552,Little swift,Apus affinis
+553,House swift,Apus nipalensis
+554,Common name,Binomial
+555,Malabar trogon,Harpactes fasciatus
+556,Red-headed trogon,Harpactes erythrocephalus
+557,Ward's trogon,Harpactes wardi
+558,Common name,Binomial
+559,Indian roller,Coracias benghalensis
+560,Indochinese roller,Coracias affinis
+561,European roller,Coracias garrulus
+562,Oriental dollarbird,Eurystomus orientalis
+563,Common name,Binomial
+564,Stork-billed kingfisher,Pelargopsis capensis
+565,Brown-winged kingfisher,Pelargopsis amauroptera
+566,Ruddy kingfisher,Halcyon coromanda
+567,White-throated kingfisher,Halcyon smyrnensis
+568,Black-capped kingfisher,Halcyon pileata
+569,Collared kingfisher,Todiramphus chloris
+570,Blue-eared kingfisher,Alcedo meninting
+571,Common kingfisher,Alcedo atthis
+572,Blyth's kingfisher,Alcedo hercules
+573,Oriental dwarf kingfisher,Ceyx erithaca
+574,Crested kingfisher,Megaceryle lugubris
+575,Pied kingfisher,Ceryle rudis
+576,Common name,Binomial
+577,Blue-bearded bee-eater,Nyctyornis athertoni
+578,Green bee-eater,Merops orientalis
+579,Blue-cheeked bee-eater,Merops persicus
+580,Blue-tailed bee-eater,Merops philippinus
+581,Blue-throated bee-eater,Merops viridis
+582,Chestnut-headed bee-eater,Merops leschenaulti
+583,European bee-eater,Merops apiaster
+584,Common name,Binomial
+585,Eurasian hoopoe,Upupa epops
+586,Common name,Binomial
+587,Great hornbill,Buceros bicornis
+588,Oriental pied hornbill,Anthracoceros albirostris
+589,Malabar pied hornbill,Anthracoceros coronatus
+590,Malabar grey hornbill,Ocyceros griseus
+591,Indian grey hornbill,Ocyceros birostris
+592,Austen's brown hornbill,Anorrhinus austeni
+593,Rufous-necked hornbill,Aceros nipalensis
+594,Narcondam hornbill,Rhyticeros narcondami
+595,Wreathed hornbill,Rhyticeros undulatus
+596,Common name,Binomial
+597,Great barbet,Psilopogon virens
+598,Brown-headed barbet,Psilopogon zeylanicus
+599,Lineated barbet,Psilopogon lineatus
+600,White-cheeked barbet,Psilopogon viridis
+601,Golden-throated barbet,Psilopogon franklinii
+602,Blue-throated barbet,Psilopogon asiaticus
+603,Blue-eared barbet,Psilopogon duvaucelii
+604,Malabar barbet,Psilopogon malabaricus
+605,Coppersmith barbet,Psilopogon haemacephalus
+606,Common name,Binomial
+607,Yellow-rumped honeyguide,Indicator xanthonotus
+608,Common name,Binomial
+609,Eurasian wryneck,Jynx torquilla
+610,Speckled piculet,Picumnus innominatus
+611,White-browed piculet,Sasia ochracea
+612,Heart-spotted woodpecker,Hemicircus canente
+613,Brown-capped pygmy woodpecker,Yungipicus nanus
+614,Grey-capped pygmy woodpecker,Yungipicus canicapillus
+615,Brown-fronted woodpecker,Dendrocoptes auriceps
+616,Yellow-crowned woodpecker,Leiopicus mahrattensis
+617,Crimson-breasted woodpecker,Dryobates cathpharius
+618,Rufous-bellied woodpecker,Dendrocopos hyperythrus
+619,Fulvous-breasted woodpecker,Dendrocopos macei
+620,Freckle-breasted woodpecker,Dendrocopos analis
+621,Stripe-breasted woodpecker,Dendrocopos atratus
+622,Darjeeling woodpecker,Dendrocopos darjellensis
+623,Himalayan woodpecker,Dendrocopos himalayensis
+624,Sind woodpecker,Dendrocopos assimilis
+625,Great spotted woodpecker,Dendrocopos major
+626,White-bellied woodpecker,Dryocopus javensis
+627,Andaman woodpecker,Dryocopus hodgei
+628,Greater yellownape,Chrysophlegma flavinucha
+629,Lesser yellownape,Picus chlorolophus
+630,Streak-throated woodpecker,Picus xanthopygaeus
+631,Scaly-bellied woodpecker,Picus squamatus
+632,Grey-headed woodpecker,Picus canus
+633,Himalayan flameback,Dinopium shorii
+634,Common flameback,Dinopium javanense
+635,Black-rumped flameback,Dinopium benghalense
+636,Greater flameback,Chrysocolaptes guttacristatus
+637,White-naped woodpecker,Chrysocolaptes festivus
+638,Pale-headed woodpecker,Gecinulus grantia
+639,Bay woodpecker,Blythipicus pyrrhotis
+640,Rufous woodpecker,Micropternus brachyurus
+641,Great slaty woodpecker,Mulleripicus pulverulentus
+642,Common name,Binomial
+643,Collared falconet,Microhierax caerulescens
+644,Pied falconet,Microhierax melanoleucos
+645,Lesser kestrel,Falco naumanni
+646,Common kestrel,Falco tinnunculus
+647,Red-necked falcon,Falco chicquera
+648,Red-footed falcon,Falco vespertinus
+649,Amur falcon,Falco amurensis
+650,Merlin,Falco columbarius
+651,Eurasian hobby,Falco subbuteo
+652,Oriental hobby,Falco severus
+653,Laggar falcon,Falco jugger
+654,Saker falcon,Falco cherrug
+655,Peregrine falcon,Falco peregrinus
+656,Common name,Binomial
+657,Grey-headed parakeet,Psittacula finschii
+658,Slaty-headed parakeet,Psittacula himalayana
+659,Blossom-headed parakeet,Psittacula roseata
+660,Plum-headed parakeet,Psittacula cyanocephala
+661,Red-breasted parakeet,Psittacula alexandri
+662,Lord Derby's parakeet,Psittacula derbiana
+663,Long-tailed parakeet,Psittacula longicauda
+664,Blue-winged parakeet,Psittacula columboides
+665,Alexandrine parakeet,Psittacula eupatria
+666,Rose-ringed parakeet,Psittacula krameri
+667,Nicobar parakeet,Psittacula caniceps
+668,Vernal hanging parrot,Loriculus vernalis
+669,Common name,Binomial
+670,Long-tailed broadbill,Psarisomus dalhousiae
+671,Silver-breasted broadbill,Serilophus lunatus
+672,Common name,Binomial
+673,Blue-naped pitta,Hydrornis nipalensis
+674,Blue pitta,Hydrornis cyanea
+675,Hooded pitta,Pitta sordida
+676,Indian pitta,Pitta brachyura
+677,Blue-winged pitta,Pitta moluccensis
+678,Mangrove pitta,Pitta megarhyncha
+679,Common name,Binomial
+680,Bar-winged flycatcher-shrike,Hemipus picatus
+681,Large woodshrike,Tephrodornis virgatus
+682,Malabar woodshrike,Tephrodornis sylvicola
+683,Common woodshrike,Tephrodornis pondicerianus
+684,Common name,Binomial
+685,Ashy woodswallow,Artamus fuscus
+686,White-breasted woodswallow,Artamus leucorynchus
+687,Common name,Binomial
+688,Common iora,Aegithina tiphia
+689,Marshall's iora,Aegithina nigrolutea
+690,Common name,Binomial
+691,White-bellied minivet,Pericrocotus erythropygius
+692,Small minivet,Pericrocotus cinnamomeus
+693,Grey-chinned minivet,Pericrocotus solaris
+694,Short-billed minivet,Pericrocotus brevirostris
+695,Long-tailed minivet,Pericrocotus ethologus
+696,Orange minivet,Pericrocotus flammeus
+697,Scarlet minivet,Pericrocotus speciosus
+698,Ashy minivet,Pericrocotus divaricatus
+699,Swinhoe's minivet,Pericrocotus cantonensis
+700,Rosy minivet,Pericrocotus roseus
+701,Large cuckooshrike,Coracina macei
+702,Andaman cuckooshrike,Coracina dobsoni
+703,Pied triller,Lalage nigra
+704,Black-winged cuckooshrike,Lalage melaschistos
+705,Black-headed cuckooshrike,Lalage melanoptera
+706,Common name,Binomial
+707,Mangrove whistler,Pachycephala cinerea
+708,Common name,Binomial
+709,Brown shrike,Lanius cristatus
+710,Red-backed shrike,Lanius collurio
+711,Isabelline shrike,Lanius isabellinus
+712,Red-tailed shrike,Lanius phoenicuroides
+713,Burmese shrike,Lanius collurioides
+714,Bay-backed shrike,Lanius vittatus
+715,Long-tailed shrike,Lanius schach
+716,Grey-backed shrike,Lanius tephronotus
+717,Lesser grey shrike,Lanius minor
+718,Great grey shrike,Lanius excubitor
+719,Woodchat shrike,Lanius senator
+720,Masked shrike,Lanius nubicus
+721,Common name,Binomial
+722,White-bellied erpornis,Erpornis zantholeuca
+723,Black-headed shrike-babbler,Pteruthius rufiventer
+724,Himalayan shrike-babbler,Pteruthius ripleyi
+725,Blyth's shrike-babbler,Pteruthius aeralatus
+726,Green shrike-babbler,Pteruthius xanthochlorus
+727,Black-eared shrike-babbler,Pteruthius melanotis
+728,Clicking shrike-babbler,Pteruthius intermedius
+729,Common name,Binomial
+730,Eurasian golden oriole,Oriolus oriolus
+731,Indian golden oriole,Oriolus kundoo
+732,Slender-billed oriole,Oriolus tenuirostris
+733,Black-naped oriole,Oriolus chinensis
+734,Black-hooded oriole,Oriolus xanthornus
+735,Maroon oriole,Oriolus traillii
+736,Common name,Binomial
+737,Black drongo,Dicrurus macrocercus
+738,Ashy drongo,Dicrurus leucophaeus
+739,White-bellied drongo,Dicrurus caerulescens
+740,Crow-billed drongo,Dicrurus annectens
+741,Bronzed drongo,Dicrurus aeneus
+742,Lesser racket-tailed drongo,Dicrurus remifer
+743,Hair-crested drongo,Dicrurus hottentottus
+744,Andaman drongo,Dicrurus andamanensis
+745,Greater racket-tailed drongo,Dicrurus paradiseus
+746,Common name,Binomial
+747,White-throated fantail,Rhipidura albicollis
+748,White-spotted fantail,Rhipidura albogularis
+749,White-browed fantail,Rhipidura aureola
+750,Common name,Binomial
+751,Black-naped monarch,Hypothymis azurea
+752,Indian paradise flycatcher,Terpsiphone paradisi
+753,Blyth's paradise flycatcher,Terpsiphone affinis
+754,Amur paradise flycatcher,Terpsiphone incei
+755,Japanese paradise flycatcher,Terpsiphone atrocaudata
+756,Common name,Binomial
+757,Eurasian jay,Garrulus glandarius
+758,Black-headed jay,Garrulus lanceolatus
+759,Yellow-billed blue magpie,Urocissa flavirostris
+760,Red-billed blue magpie,Urocissa erythroryncha
+761,Common green magpie,Cissa chinensis
+762,Rufous treepie,Dendrocitta vagabunda
+763,Grey treepie,Dendrocitta formosae
+764,White-bellied treepie,Dendrocitta leucogastra
+765,Collared treepie,Dendrocitta frontalis
+766,Andaman treepie,Dendrocitta bayleyii
+767,Eurasian magpie,Pica pica
+768,Black-rumped magpie,Pica bottanensis
+769,Eurasian nutcracker,Nucifraga caryocatactes
+770,Large-spotted nutcracker,Nucifraga multipunctata
+771,Red-billed chough,Pyrrhocorax pyrrhocorax
+772,Alpine chough,Pyrrhocorax graculus
+773,Western jackdaw,Corvus monedula
+774,House crow,Corvus splendens
+775,Rook,Corvus frugilegus
+776,Carrion crow,Corvus corone
+777,Hooded crow,Corvus cornix
+778,Large-billed crow,Corvus macrorhynchos
+779,Eastern jungle crow,Corvus levaillantii
+780,Indian jungle crow,Corvus culminatus
+781,Pied crow,Corvus albus
+782,Common raven,Corvus corax
+783,Common name,Binomial
+784,Bohemian waxwing,Bombycilla garrulus
+785,Common name,Binomial
+786,Grey hypocolius,Hypocolius ampelinus
+787,Common name,Binomial
+788,Yellow-bellied fantail,Chelidorhynx hypoxanthus
+789,Grey-headed canary-flycatcher,Culicicapa ceylonensis
+790,Common name,Binomial
+791,Fire-capped tit,Cephalopyrus flammiceps
+792,Yellow-browed tit,Sylviparus modestus
+793,Sultan tit,Melanochlora sultanea
+794,Rufous-naped tit,Periparus rufonuchalis
+795,Rufous-vented tit,Periparus rubidiventris
+796,Coal tit,Periparus ater
+797,Grey-crested tit,Lophophanes dichrous
+798,Azure tit,Cyanistes cyanus
+799,Ground tit,Pseudopodoces humilis
+800,Great tit,Parus major
+801,Japanese tit,Parus minor
+802,Cinereous tit,Parus cinereus
+803,Green-backed tit,Parus monticolus
+804,White-naped tit,Machlolophus nuchalis
+805,Himalayan black-lored tit,Machlolophus xanthogenys
+806,Indian black-lored tit,Machlolophus aplonotus
+807,Yellow-cheeked tit,Machlolophus spilonotus
+808,Common name,Binomial
+809,White-crowned penduline tit,Remiz coronatus
+810,Common name,Binomial
+811,Greater hoopoe-lark,Alaemon alaudipes
+812,Desert lark,Ammomanes deserti
+813,Rufous-tailed lark,Ammomanes phoenicura
+814,Black-crowned sparrow-lark,Eremopterix nigriceps
+815,Ashy-crowned sparrow-lark,Eremopterix griseus
+816,Singing bush lark,Mirafra cantillans
+817,Bengal bush lark,Mirafra assamica
+818,Indian bush lark,Mirafra erythroptera
+819,Jerdon's bush lark,Mirafra affinis
+820,Oriental skylark,Alauda gulgula
+821,Eurasian skylark,Alauda arvensis
+822,Sykes's lark,Galerida deva
+823,Crested lark,Galerida cristata
+824,Malabar lark,Galerida malabarica
+825,Horned lark,Eremophila alpestris
+826,Hume's short-toed lark,Calandrella acutirostris
+827,Mongolian short-toed lark,Calandrella dukhunensis
+828,Greater short-toed lark,Calandrella brachydactyla
+829,Bimaculated lark,Melanocorypha bimaculata
+830,Tibetan lark,Melanocorypha maxima
+831,Asian short-toed lark,Alaudala cheleensis
+832,Lesser short-toed lark,Alaudala rufescens
+833,Sand lark,Alaudala raytal
+834,Common name,Binomial
+835,Crested finchbill,Spizixos canifrons
+836,Striated bulbul,Pycnonotus striatus
+837,Grey-headed bulbul,Pycnonotus priocephalus
+838,Black-headed bulbul,Pycnonotus atriceps
+839,Andaman bulbul,Pycnonotus fuscoflavescens
+840,Black-crested bulbul,Pycnonotus flaviventris
+841,Flame-throated bulbul,Pycnonotus gularis
+842,Red-whiskered bulbul,Pycnonotus jocosus
+843,Himalayan bulbul,Pycnonotus leucogenys
+844,White-eared bulbul,Pycnonotus leucotis
+845,Red-vented bulbul,Pycnonotus cafer
+846,Yellow-throated bulbul,Pycnonotus xantholaemus
+847,Flavescent bulbul,Pycnonotus flavescens
+848,White-browed bulbul,Pycnonotus luteolus
+849,White-throated bulbul,Alophoixus flaveolus
+850,Yellow-browed bulbul,Acritillas indica
+851,Cachar bulbul,Iole cacharensis
+852,Nicobar bulbul,Hypsipetes nicobariensis
+853,Mountain bulbul,Ixos mcclellandii
+854,Ashy bulbul,Hemixos flavala
+855,Black bulbul,Hypsipetes leucocephalus
+856,Square-tailed bulbul,Hypsipetes ganeesa
+857,Common name,Binomial
+858,Grey-throated martin,Riparia chinensis
+859,Sand martin,Riparia riparia
+860,Pale martin,Riparia diluta
+861,Barn swallow,Hirundo rustica
+862,Pacific swallow,Hirundo tahitica
+863,Hill swallow,Hirundo domicola
+864,Wire-tailed swallow,Hirundo smithii
+865,Eurasian crag martin,Ptyonoprogne rupestris
+866,Dusky crag martin,Ptyonoprogne concolor
+867,Common house martin,Delichon urbicum
+868,Asian house martin,Delichon dasypus
+869,Nepal house martin,Delichon nipalense
+870,Red-rumped swallow,Cecropis daurica
+871,Striated swallow,Cecropis striolata
+872,Streak-throated swallow,Petrochelidon fluvicola
+873,Common name,Binomial
+874,Scaly-breasted cupwing,Pnoepyga albiventer
+875,Nepal cupwing,Pnoepyga immaculata
+876,Pygmy cupwing,Pnoepyga pusilla
+877,Common name,Binomial
+878,Yellow-bellied warbler,Abroscopus superciliaris
+879,Rufous-faced warbler,Abroscopus albogularis
+880,Black-faced warbler,Abroscopus schisticeps
+881,Mountain tailorbird,Phyllergates cucullatus
+882,Broad-billed warbler,Tickellia hodgsoni
+883,Manchurian bush warbler,Horornis borealis
+884,Brown-flanked bush warbler,Horornis fortipes
+885,Hume's bush warbler,Horornis brunnescens
+886,Aberrant bush warbler,Horornis flavolivaceus
+887,Grey-bellied tesia,Tesia cyaniventer
+888,Slaty-bellied tesia,Tesia olivea
+889,Cetti's warbler,Cettia cetti
+890,Chestnut-crowned bush warbler,Cettia major
+891,Grey-sided bush warbler,Cettia brunnifrons
+892,Chestnut-headed tesia,Cettia castaneocoronata
+893,Asian stubtail,Urosphena squameiceps
+894,Pale-footed bush warbler,Urosphena pallidipes
+895,Common name,Binomial
+896,White-cheeked bushtit,Aegithalos leucogenys
+897,Black-throated bushtit,Aegithalos concinnus
+898,White-throated bushtit,Aegithalos niveogularis
+899,Rufous-fronted bushtit,Aegithalos iouschistos
+900,Black-browed bushtit,Aegithalos bonvaloti
+901,Burmese bushtit,Aegithalos sharpei
+902,White-browed tit-warbler,Leptopoecile sophiae
+903,Crested tit-warbler,Leptopoecile elegans
+904,Common name,Binomial
+905,Wood warbler,Phylloscopus sibilatrix
+906,Buff-barred warbler,Phylloscopus pulcher
+907,Ashy-throated warbler,Phylloscopus maculipennis
+908,Hume's leaf warbler,Phylloscopus humei
+909,Yellow-browed warbler,Phylloscopus inornatus
+910,Brooks's leaf warbler,Phylloscopus subviridis
+911,Chinese leaf warbler,Phylloscopus yunnanensis
+912,Lemon-rumped warbler,Phylloscopus chloronotus
+913,Tytler's leaf warbler,Phylloscopus tytleri
+914,Sulphur-bellied warbler,Phylloscopus griseolus
+915,Tickell's leaf warbler,Phylloscopus affinis
+916,Smoky warbler,Phylloscopus fuligiventer
+917,Dusky warbler,Phylloscopus fuscatus
+918,Plain leaf warbler,Phylloscopus neglectus
+919,Buff-throated warbler,Phylloscopus subaffinis
+920,Mountain chiffchaff,Phylloscopus sindianus
+921,Common chiffchaff,Phylloscopus collybita
+922,White-spectacled warbler,Phylloscopus intermedius
+923,Grey-cheeked warbler,Phylloscopus poliogenys
+924,Green-crowned warbler,Phylloscopus burkii
+925,Grey-crowned warbler,Phylloscopus tephrocephalus
+926,Whistler's warbler,Phylloscopus whistleri
+927,Bianchi's warbler,Phylloscopus valentini
+928,Green warbler,Phylloscopus nitidus
+929,Two-barred warbler,Phylloscopus plumbeitarsus
+930,Greenish warbler,Phylloscopus trochiloides
+931,Large-billed leaf warbler,Phylloscopus magnirostris
+932,Pale-legged leaf warbler,Phylloscopus tenellipes
+933,Arctic warbler,Phylloscopus borealis
+934,Chestnut-crowned warbler,Phylloscopus castaniceps
+935,Yellow-vented warbler,Phylloscopus cantator
+936,Western crowned leaf warbler,Phylloscopus occipitalis
+937,Blyth's leaf warbler,Phylloscopus reguloides
+938,Claudia's leaf warbler,Phylloscopus claudiae
+939,Grey-hooded warbler,Phylloscopus xanthoschistos
+940,Common name,Binomial
+941,Great reed warbler,Acrocephalus arundinaceus
+942,Oriental reed warbler,Acrocephalus orientalis
+943,Clamorous reed warbler,Acrocephalus stentoreus
+944,Black-browed reed warbler,Acrocephalus bistrigiceps
+945,Moustached warbler,Acrocephalus melanopogon
+946,Sedge warbler,Acrocephalus schoenobaenus
+947,Blunt-winged warbler,Acrocephalus concinens
+948,Large-billed reed warbler,Acrocephalus orinus
+949,Paddyfield warbler,Acrocephalus agricola
+950,Blyth's reed warbler,Acrocephalus dumetorum
+951,Thick-billed warbler,Arundinax aedon
+952,Booted warbler,Iduna caligata
+953,Sykes's warbler,Iduna rama
+954,Common name,Binomial
+955,Pallas's grasshopper warbler,Helopsaltes certhiola
+956,Lanceolated warbler,Locustella lanceolata
+957,Brown bush warbler,Locustella luteoventris
+958,Long-billed bush warbler,Locustella major
+959,Common grasshopper warbler,Locustella naevia
+960,Chinese bush warbler,Locustella tacsanowskia
+961,Baikal bush warbler,Locustella davidi
+962,Spotted bush warbler,Locustella thoracica
+963,West Himalayan bush warbler,Locustella kashmirensis
+964,Russet bush warbler,Locustella mandelli
+965,Striated grassbird,Megalurus palustris
+966,Broad-tailed grassbird,Schoenicola platyurus
+967,Bristled grassbird,Schoenicola striatus
+968,Common name,Binomial
+969,Zitting cisticola,Cisticola juncidis
+970,Golden-headed cisticola,Cisticola exilis
+971,Himalayan prinia,Prinia crinigera
+972,Swinhoe's prinia,Prinia striata
+973,Black-throated prinia,Prinia atrogularis
+974,Hill prinia,Prinia superciliaris
+975,Grey-crowned prinia,Prinia cinereocapilla
+976,Rufous-fronted prinia,Prinia buchanani
+977,Rufescent prinia,Prinia rufescens
+978,Grey-breasted prinia,Prinia hodgsonii
+979,Graceful prinia,Prinia gracilis
+980,Jungle prinia,Prinia sylvatica
+981,Yellow-bellied prinia,Prinia flaviventris
+982,Ashy prinia,Prinia socialis
+983,Plain prinia,Prinia inornata
+984,Common tailorbird,Orthotomus sutorius
+985,Dark-necked tailorbird,Orthotomus atrogularis
+986,Common name,Binomial
+987,Large scimitar babbler,Pomatorhinus hypoleucos
+988,Rusty-cheeked scimitar babbler,Pomatorhinus erythrogenys
+989,Spot-breasted scimitar babbler,Pomatorhinus mcclellandi
+990,Indian scimitar babbler,Pomatorhinus horsfieldii
+991,White-browed scimitar babbler,Pomatorhinus schisticeps
+992,Streak-breasted scimitar babbler,Pomatorhinus ruficollis
+993,Red-billed scimitar babbler,Pomatorhinus ochraceiceps
+994,Coral-billed scimitar babbler,Pomatorhinus ferruginosus
+995,Slender-billed scimitar babbler,Pomatorhinus superciliaris
+996,Rufous-throated wren-babbler,Spelaeornis caudatus
+997,Rusty-throated wren-babbler,Spelaeornis badeigularis
+998,Bar-winged wren-babbler,Spelaeornis troglodytoides
+999,Naga wren-babbler,Spelaeornis chocolatinus
+1000,Grey-bellied wren-babbler,Spelaeornis reptatus
+1001,Chin Hills wren-babbler,Spelaeornis oatesi
+1002,Tawny-breasted wren-babbler,Spelaeornis longicaudatus
+1003,Sikkim wedge-billed babbler,Sphenocichla humei
+1004,Cachar wedge-billed babbler,Sphenocichla roberti
+1005,Grey-throated babbler,Stachyris nigriceps
+1006,Snowy-throated babbler,Stachyris oglei
+1007,Buff-chested babbler,Stachyridopsis ambigua
+1008,Rufous-capped babbler,Stachyridopsis ruficeps
+1009,Black-chinned babbler,Stachyridopsis pyrrhops
+1010,Golden babbler,Stachyridopsis chrysaea
+1011,Tawny-bellied babbler,Dumetia hyperythra
+1012,Dark-fronted babbler,Rhopocichla atriceps
+1013,Pin-striped tit-babbler,Macronus gularis
+1014,Chestnut-capped babbler,Timalia pileata
+1015,Common name,Binomial
+1016,Rufous-vented grass babbler,Laticilla burnesii
+1017,Swamp grass babbler,Laticilla cinerascens
+1018,Yellow-throated fulvetta,Alcippe cinerea
+1019,Rufous-winged fulvetta,Alcippe castaneceps
+1020,Rufous-throated fulvetta,Alcippe rufogularis
+1021,Rusty-capped fulvetta,Alcippe dubia
+1022,Brown-cheeked fulvetta,Alcippe poioicephala
+1023,Nepal fulvetta,Alcippe nipalensis
+1024,Streaked wren-babbler,Napothera brevicaudata
+1025,Eyebrowed wren-babbler,Napothera epilepidota
+1026,White-hooded babbler,Gampsorhynchus rufulus
+1027,Long-billed wren-babbler,Rimator malacoptilus
+1028,Abbott's babbler,Malacocincla abbotti
+1029,Indian grassbird,Graminicola bengalensis
+1030,Spot-throated babbler,Pellorneum albiventre
+1031,Marsh babbler,Pellorneum palustre
+1032,Puff-throated babbler,Pellorneum ruficeps
+1033,Buff-breasted babbler,Pellorneum tickelli
+1034,Common name,Binomial
+1035,Striated laughingthrush,Grammatoptila striatus
+1036,Himalayan cutia,Cutia nipalensis
+1037,Brown-capped laughingthrush,Trochalopteron austeni
+1038,Scaly laughingthrush,Trochalopteron subunicolor
+1039,Streaked laughingthrush,Trochalopteron lineatum
+1040,Striped laughingthrush,Trochalopteron virgatum
+1041,Blue-winged laughingthrush,Trochalopteron squamatum
+1042,Variegated laughingthrush,Trochalopteron variegatum
+1043,Black-faced laughingthrush,Trochalopteron affine
+1044,Elliot's laughingthrush,Trochalopteron elliotii
+1045,Chestnut-crowned laughingthrush,Trochalopteron erythrocephalum
+1046,Bhutan laughingthrush,Trochalopteron imbricatum
+1047,Assam laughingthrush,Trochalopteron chrysopterum
+1048,Bar-throated minla,Actinodura strigula
+1049,Rusty-fronted barwing,Actinodura egertoni
+1050,Blue-winged minla,Actinodura cyanouroptera
+1051,Hoary-throated barwing,Actinodura nipalensis
+1052,Streak-throated barwing,Actinodura waldeni
+1053,Nilgiri laughingthrush,Montecincla cachinnans
+1054,Banasura laughingthrush,Montecincla jerdoni
+1055,Palani laughingthrush,Montecincla fairbanki
+1056,Ashambu laughingthrush,Montecincla meridionalis
+1057,Red-tailed minla,Minla ignotincta
+1058,Rufous-backed sibia,Leioptila annectens
+1059,Red-billed leiothrix,Leiothrix lutea
+1060,Silver-eared mesia,Leiothrix argentauris
+1061,Red-faced liocichla,Liocichla phoenicea
+1062,Bugun liocichla,Liocichla bugunorum
+1063,Grey sibia,Heterophasia gracilis
+1064,Beautiful sibia,Heterophasia pulchella
+1065,Rufous sibia,Heterophasia capistrata
+1066,Long-tailed sibia,Heterophasia picaoides
+1067,Large grey babbler,Argya malcolmi
+1068,Striated babbler,Argya earlei
+1069,Common babbler,Argya caudata
+1070,Yellow-billed babbler,Argya affinis
+1071,Jungle babbler,Argya striata
+1072,Slender-billed babbler,Argya longirostris
+1073,Rufous babbler,Argya subrufa
+1074,Lesser necklaced laughingthrush,Garrulax monileger
+1075,White-crested laughingthrush,Garrulax leucolophus
+1076,Spot-breasted laughingthrush,Garrulax merulinus
+1077,Spotted laughingthrush,Ianthocincla ocellata
+1078,Moustached laughingthrush,Ianthocincla cineracea
+1079,Rufous-chinned laughingthrush,Ianthocincla rufogularis
+1080,Rufous-necked laughingthrush,Pterorhinus ruficollis
+1081,Chestnut-backed laughingthrush,Pterorhinus nuchalis
+1082,Yellow-throated laughingthrush,Pterorhinus galbanus
+1083,Rufous-vented laughingthrush,Pterorhinus gularis
+1084,Wynaad laughingthrush,Pterorhinus delesserti
+1085,White-throated laughingthrush,Pterorhinus albogularis
+1086,Greater necklaced laughingthrush,Pterorhinus pectoralis
+1087,Grey-sided laughingthrush,Pterorhinus caerulatus
+1088,Chinese babax,Pterorhinus lanceolatus
+1089,Mount Victoria babax,Pterorhinus woodi
+1090,White-browed laughingthrush,Pterorhinus sannio
+1091,Common name,Binomial
+1092,Fire-tailed myzornis,Myzornis pyrrhoura
+1093,Garden warbler,Sylvia borin
+1094,Barred warbler,Sylvia nisoria
+1095,Lesser whitethroat,Sylvia curruca
+1096,Desert whitethroat,Sylvia minula
+1097,Hume's whitethroat,Sylvia althaea
+1098,Eastern Orphean warbler,Sylvia crassirostris
+1099,Asian desert warbler,Sylvia nana
+1100,Common whitethroat,Sylvia communis
+1101,Golden-breasted fulvetta,Lioparus chrysotis
+1102,White-browed fulvetta,Fulvetta vinipectus
+1103,Brown-throated fulvetta,Fulvetta ludlowi
+1104,Manipur fulvetta,Fulvetta manipurensis
+1105,Yellow-eyed babbler,Chrysomma sinense
+1106,Jerdon's babbler,Chrysomma altirostre
+1107,Great parrotbill,Conostoma aemodium
+1108,Brown parrotbill,Cholornis unicolor
+1109,Fulvous parrotbill,Suthora fulvifrons
+1110,Black-throated parrotbill,Suthora nipalensis
+1111,Pale-billed parrotbill,Chleuasicus atrosuperciliaris
+1112,White-breasted parrotbill,Psittiparus ruficeps
+1113,Rufous-headed parrotbill,Psittiparus bakeri
+1114,Grey-headed parrotbill,Psittiparus gularis
+1115,Black-breasted parrotbill,Paradoxornis flavirostris
+1116,Spot-breasted parrotbill,Paradoxornis guttaticollis
+1117,Common name,Binomial
+1118,Striated yuhina,Yuhina castaniceps
+1119,White-naped yuhina,Yuhina bakeri
+1120,Whiskered yuhina,Yuhina flavicollis
+1121,Stripe-throated yuhina,Yuhina gularis
+1122,Rufous-vented yuhina,Yuhina occipitalis
+1123,Black-chinned yuhina,Yuhina nigrimenta
+1124,Chestnut-flanked white-eye,Zosterops erythropleurus
+1125,Indian white-eye,Zosterops palpebrosus
+1126,Common name,Binomial
+1127,Asian fairy-bluebird,Irena puella
+1128,Common name,Binomial
+1129,Goldcrest,Regulus regulus
+1130,Common name,Binomial
+1131,Spotted elachura,Elachura formosa
+1132,Common name,Binomial
+1133,Eurasian wren,Troglodytes troglodytes
+1134,Common name,Binomial
+1135,Chestnut-vented nuthatch,Sitta nagaensis
+1136,Kashmir nuthatch,Sitta cashmirensis
+1137,Indian nuthatch,Sitta castanea
+1138,Chestnut-bellied nuthatch,Sitta cinnamoventris
+1139,White-tailed nuthatch,Sitta himalayensis
+1140,Yunnan nuthatch,Sitta yunnanensis
+1141,White-cheeked nuthatch,Sitta leucopsis
+1142,Przevalski's nuthatch,Sitta przewalskii
+1143,Velvet-fronted nuthatch,Sitta frontalis
+1144,Beautiful nuthatch,Sitta formosa
+1145,Common name,Binomial
+1146,Wallcreeper,Tichodroma muraria
+1147,Common name,Binomial
+1148,Hodgson's treecreeper,Certhia hodgsoni
+1149,Bar-tailed treecreeper,Certhia himalayana
+1150,Rusty-flanked treecreeper,Certhia nipalensis
+1151,Sikkim treecreeper,Certhia discolor
+1152,Hume's treecreeper,Certhia manipurensis
+1153,Indian spotted creeper,Salpornis spilonota
+1154,Common name,Binomial
+1155,Asian glossy starling,Aplonis panayensis
+1156,Spot-winged starling,Saroglossa spilopterus
+1157,Golden-crested myna,Ampeliceps coronatus
+1158,Common hill myna,Gracula religiosa
+1159,Southern hill myna,Gracula indica
+1160,Great myna,Acridotheres grandis
+1161,Jungle myna,Acridotheres fuscus
+1162,Collared myna,Acridotheres albocinctus
+1163,Bank myna,Acridotheres ginginianus
+1164,Common myna,Acridotheres tristis
+1165,White-cheeked starling,Spodiopsar cineraceus
+1166,Pied myna,Gracupica contra
+1167,Daurian starling,Agropsar sturninus
+1168,Chestnut-cheeked starling,Agropsar philippensis
+1169,Chestnut-tailed starling,Sturnia malabarica
+1170,White-headed starling,Sturnia erythropygia
+1171,Malabar starling,Sturnia blythii
+1172,Brahminy starling,Sturnia pagodarum
+1173,Rosy starling,Pastor roseus
+1174,Common starling,Sturnus vulgaris
+1175,Common name,Binomial
+1176,Pied thrush,Geokichla wardii
+1177,Orange-headed thrush,Geokichla citrina
+1178,Siberian thrush,Geokichla sibirica
+1179,Alpine thrush,Zoothera mollissima
+1180,Himalayan thrush,Zoothera salimalii
+1181,Long-tailed thrush,Zoothera dixoni
+1182,Scaly thrush,Zoothera dauma
+1183,Nilgiri thrush,Zoothera neilgherriensis
+1184,Long-billed thrush,Zoothera monticola
+1185,Dark-sided thrush,Zoothera marginata
+1186,Grandala,Grandala coelicolor
+1187,Tickell's thrush,Turdus unicolor
+1188,Black-breasted thrush,Turdus dissimilis
+1189,White-collared blackbird,Turdus albocinctus
+1190,Grey-winged blackbird,Turdus boulboul
+1191,Tibetan blackbird,Turdus maximus
+1192,Indian blackbird,Turdus simillimus
+1193,Chestnut thrush,Turdus rubrocanus
+1194,Kessler's thrush,Turdus kessleri
+1195,Grey-sided thrush,Turdus feae
+1196,Eyebrowed thrush,Turdus obscurus
+1197,Black-throated thrush,Turdus atrogularis
+1198,Red-throated thrush,Turdus ruficollis
+1199,Naumann's thrush,Turdus naumanni
+1200,Dusky thrush,Turdus euonomus
+1201,Fieldfare,Turdus pilaris
+1202,Song thrush,Turdus philomelos
+1203,Chinese thrush,Turdus mupinensis
+1204,Mistle thrush,Turdus viscivorus
+1205,Purple cochoa,Cochoa purpurea
+1206,Green cochoa,Cochoa viridis
+1207,Common name,Binomial
+1208,Rufous-tailed scrub robin,Cercotrichas galactotes
+1209,Indian robin,Copsychus fulicatus
+1210,Oriental magpie-robin,Copsychus saularis
+1211,White-rumped shama,Copsychus malabaricus
+1212,Andaman shama,Copsychus albiventris
+1213,White-crowned shama,Copsychus stricklandii
+1214,Spotted flycatcher,Muscicapa striata
+1215,Dark-sided flycatcher,Muscicapa sibirica
+1216,Asian brown flycatcher,Muscicapa dauurica
+1217,Brown-breasted flycatcher,Muscicapa muttui
+1218,Ferruginous flycatcher,Muscicapa ferruginea
+1219,White-gorgeted flycatcher,Anthipes monileger
+1220,Pale blue flycatcher,Cyornis unicolor
+1221,White-bellied blue flycatcher,Cyornis pallidipes
+1222,Pale-chinned blue flycatcher,Cyornis poliogenys
+1223,Hill blue flycatcher,Cyornis banyumas
+1224,Large blue flycatcher,Cyornis magnirostris
+1225,Tickell's blue flycatcher,Cyornis tickelliae
+1226,Blue-throated flycatcher,Cyornis rubeculoides
+1227,White-tailed flycatcher,Cyornis concretus
+1228,Nicobar jungle flycatcher,Cyornis nicobaricus
+1229,Rufous-bellied niltava,Niltava sundara
+1230,Vivid niltava,Niltava vivida
+1231,Large niltava,Niltava grandis
+1232,Small niltava,Niltava macgrigoriae
+1233,Blue-and-white flycatcher,Cyanoptila cyanomelana
+1234,Zappey's flycatcher,Cyanoptila cumatilis
+1235,Verditer flycatcher,Eumyias thalassinus
+1236,Nilgiri flycatcher,Eumyias albicaudatus
+1237,Gould's shortwing,Heteroxenicus stellatus
+1238,Rusty-bellied shortwing,Brachypteryx hyperythra
+1239,Lesser shortwing,Brachypteryx leucophris
+1240,Himalayan shortwing,Brachypteryx cruralis
+1241,Indian blue robin,Larvivora brunnea
+1242,Siberian blue robin,Larvivora cyane
+1243,Bluethroat,Luscinia svecica
+1244,White-bellied redstart,Luscinia phoenicuroides
+1245,Himalayan rubythroat,Calliope pectoralis
+1246,Chinese rubythroat,Calliope tschebaiewi
+1247,Siberian rubythroat,Calliope calliope
+1248,Firethroat,Calliope pectardens
+1249,White-tailed robin,Myiomela leucura
+1250,Nilgiri blue robin,Sholicola major
+1251,White-bellied blue robin,Sholicola albiventris
+1252,White-browed bush robin,Tarsiger indicus
+1253,Rufous-breasted bush robin,Tarsiger hyperythrus
+1254,Red-flanked bluetail,Tarsiger cyanurus
+1255,Himalayan bluetail,Tarsiger rufilatus
+1256,Golden bush robin,Tarsiger chrysaeus
+1257,Little forktail,Enicurus scouleri
+1258,Black-backed forktail,Enicurus immaculatus
+1259,Slaty-backed forktail,Enicurus schistaceus
+1260,White-crowned forktail,Enicurus leschenaulti
+1261,Spotted forktail,Enicurus maculatus
+1262,Malabar whistling thrush,Myophonus horsfieldii
+1263,Blue whistling thrush,Myophonus caeruleus
+1264,Blue-fronted robin,Cinclidium frontale
+1265,Rusty-tailed flycatcher,Ficedula ruficauda
+1266,Yellow-rumped flycatcher,Ficedula zanthopygia
+1267,Mugimaki flycatcher,Ficedula mugimaki
+1268,Slaty-backed flycatcher,Ficedula erithacus
+1269,Rufous-gorgeted flycatcher,Ficedula strophiata
+1270,Red-breasted flycatcher,Ficedula parva
+1271,Taiga flycatcher,Ficedula albicilla
+1272,Kashmir flycatcher,Ficedula subrubra
+1273,Snowy-browed flycatcher,Ficedula hyperythra
+1274,Little pied flycatcher,Ficedula westermanni
+1275,Ultramarine flycatcher,Ficedula superciliaris
+1276,Slaty-blue flycatcher,Ficedula tricolor
+1277,Sapphire flycatcher,Ficedula sapphira
+1278,Black-and-orange flycatcher,Ficedula nigrorufa
+1279,Pygmy flycatcher,Muscicapella hodgsoni
+1280,Eversmann's redstart,Phoenicurus erythronotus
+1281,Blue-capped redstart,Phoenicurus coeruleocephala
+1282,Black redstart,Phoenicurus ochruros
+1283,Common redstart,Phoenicurus phoenicurus
+1284,Hodgson's redstart,Phoenicurus hodgsoni
+1285,White-throated redstart,Phoenicurus schisticeps
+1286,Daurian redstart,Phoenicurus auroreus
+1287,Güldenstädt's redstart,Phoenicurus erythrogastrus
+1288,Blue-fronted redstart,Phoenicurus frontalis
+1289,Plumbeous water redstart,Phoenicurus fuliginosus
+1290,White-capped redstart,Phoenicurus leucocephalus
+1291,Common rock thrush,Monticola saxatilis
+1292,Blue rock thrush,Monticola solitarius
+1293,Chestnut-bellied rock thrush,Monticola rufiventris
+1294,Blue-capped rock thrush,Monticola cinclorhyncha
+1295,White-browed bush chat,Saxicola macrorhynchus
+1296,White-throated bush chat,Saxicola insignis
+1297,Siberian stonechat,Saxicola maurus
+1298,Stejneger's stonechat,Saxicola stejnegeri
+1299,White-tailed stonechat,Saxicola leucurus
+1300,Pied bush chat,Saxicola caprata
+1301,Jerdon's bush chat,Saxicola jerdoni
+1302,Grey bush chat,Saxicola ferreus
+1303,Northern wheatear,Oenanthe oenanthe
+1304,Isabelline wheatear,Oenanthe isabellina
+1305,Desert wheatear,Oenanthe deserti
+1306,Pied wheatear,Oenanthe pleschanka
+1307,Brown rock chat,Oenanthe fusca
+1308,Variable wheatear,Oenanthe picata
+1309,Hume's wheatear,Oenanthe albonigra
+1310,Finsch's wheatear,Oenanthe finschii
+1311,Red-tailed wheatear,Oenanthe chrysopygia
+1312,Common name,Binomial
+1313,White-throated dipper,Cinclus cinclus
+1314,Brown dipper,Cinclus pallasii
+1315,Common name,Binomial
+1316,Jerdon's leafbird,Chloropsis jerdoni
+1317,Golden-fronted leafbird,Chloropsis aurifrons
+1318,Orange-bellied leafbird,Chloropsis hardwickii
+1319,Common name,Binomial
+1320,Thick-billed flowerpecker,Dicaeum agile
+1321,Yellow-vented flowerpecker,Dicaeum chrysorrheum
+1322,Yellow-bellied flowerpecker,Dicaeum melanozanthum
+1323,Pale-billed flowerpecker,Dicaeum erythrorhynchos
+1324,Nilgiri flowerpecker,Dicaeum concolor
+1325,Plain flowerpecker,Dicaeum minullum
+1326,Andaman flowerpecker,Dicaeum virescens
+1327,Fire-breasted flowerpecker,Dicaeum ignipectus
+1328,Scarlet-backed flowerpecker,Dicaeum cruentatum
+1329,Common name,Binomial
+1330,Ruby-cheeked sunbird,Chalcoparia singalensis
+1331,Purple-rumped sunbird,Leptocoma zeylonica
+1332,Crimson-backed sunbird,Leptocoma minima
+1333,Van Hasselt's sunbird,Leptocoma brasiliana
+1334,Purple sunbird,Cinnyris asiaticus
+1335,Olive-backed sunbird,Cinnyris jugularis
+1336,Loten's sunbird,Cinnyris lotenius
+1337,Mrs. Gould's sunbird,Aethopyga gouldiae
+1338,Green-tailed sunbird,Aethopyga nipalensis
+1339,Black-throated sunbird,Aethopyga saturata
+1340,Crimson sunbird,Aethopyga siparaja
+1341,Vigors's sunbird,Aethopyga vigorsii
+1342,Fire-tailed sunbird,Aethopyga ignicauda
+1343,Little spiderhunter,Arachnothera longirostra
+1344,Streaked spiderhunter,Arachnothera magna
+1345,Common name,Binomial
+1346,House sparrow,Passer domesticus
+1347,Spanish sparrow,Passer hispaniolensis
+1348,Sind sparrow,Passer pyrrhonotus
+1349,Russet sparrow,Passer cinnamomeus
+1350,Eurasian tree sparrow,Passer montanus
+1351,Pale rockfinch,Carpospiza brachydactyla
+1352,Rock sparrow,Petronia petronia
+1353,Yellow-throated sparrow,Gymnoris xanthocollis
+1354,Black-winged snowfinch,Montifringilla adamsi
+1355,White-rumped snowfinch,Onychostruthus taczanowskii
+1356,Rufous-necked snowfinch,Pyrgilauda ruficollis
+1357,Blanford's snowfinch,Pyrgilauda blanfordi
+1358,Common name,Binomial
+1359,Black-breasted weaver,Ploceus benghalensis
+1360,Streaked weaver,Ploceus manyar
+1361,Baya weaver,Ploceus philippinus
+1362,Finn's weaver,Ploceus megarhynchus
+1363,Common name,Binomial
+1364,Red avadavat,Amandava amandava
+1365,Green avadavat,Amandava formosa
+1366,Indian silverbill,Euodice malabarica
+1367,White-rumped munia,Lonchura striata
+1368,Scaly-breasted munia,Lonchura punctulata
+1369,Black-throated munia,Lonchura kelaarti
+1370,Tricoloured munia,Lonchura malacca
+1371,Chestnut munia,Lonchura atricapilla
+1372,Common name,Binomial
+1373,Alpine accentor,Prunella collaris
+1374,Altai accentor,Prunella himalayana
+1375,Robin accentor,Prunella rubeculoides
+1376,Rufous-breasted accentor,Prunella strophiata
+1377,Brown accentor,Prunella fulvescens
+1378,Black-throated accentor,Prunella atrogularis
+1379,Maroon-backed accentor,Prunella immaculata
+1380,Common name,Binomial
+1381,Forest wagtail,Dendronanthus indicus
+1382,Western yellow wagtail,Motacilla flava
+1383,Eastern yellow wagtail,Motacilla tschutschensis
+1384,Citrine wagtail,Motacilla citreola
+1385,Grey wagtail,Motacilla cinerea
+1386,White wagtail,Motacilla alba
+1387,White-browed wagtail,Motacilla maderaspatensis
+1388,Richard's pipit,Anthus richardi
+1389,Paddyfield pipit,Anthus rufulus
+1390,Blyth's pipit,Anthus godlewskii
+1391,Tawny pipit,Anthus campestris
+1392,Long-billed pipit,Anthus similis
+1393,Tree pipit,Anthus trivialis
+1394,Olive-backed pipit,Anthus hodgsoni
+1395,Rosy pipit,Anthus roseatus
+1396,Red-throated pipit,Anthus cervinus
+1397,Buff-bellied pipit,Anthus rubescens
+1398,Water pipit,Anthus spinoletta
+1399,Nilgiri pipit,Anthus nilghiriensis
+1400,Upland pipit,Anthus sylvanus
+1401,Common name,Binomial
+1402,Common chaffinch,Fringilla coelebs
+1403,Brambling,Fringilla montifringilla
+1404,Black-and-yellow grosbeak,Mycerobas icterioides
+1405,Collared grosbeak,Mycerobas affinis
+1406,Spot-winged grosbeak,Mycerobas melanozanthos
+1407,White-winged grosbeak,Mycerobas carnipes
+1408,Hawfinch,Coccothraustes coccothraustes
+1409,Brown bullfinch,Pyrrhula nipalensis
+1410,Orange bullfinch,Pyrrhula aurantiaca
+1411,Red-headed bullfinch,Pyrrhula erythrocephala
+1412,Grey-headed bullfinch,Pyrrhula erythaca
+1413,Asian crimson-winged finch,Rhodopechys sanguineus
+1414,Trumpeter finch,Bucanetes githaginea
+1415,Mongolian finch,Bucanetes mongolicus
+1416,Blanford's rosefinch,Agraphospiza rubescens
+1417,Spectacled finch,Callacanthis burtoni
+1418,Golden-naped finch,Pyrrhoplectes epauletta
+1419,Dark-breasted rosefinch,Procarduelis nipalensis
+1420,Plain mountain finch,Leucosticte nemoricola
+1421,Brandt's mountain finch,Leucosticte brandti
+1422,Common rosefinch,Carpodacus erythrinus
+1423,Scarlet finch,Carpodacus sipahi
+1424,Streaked rosefinch,Carpodacus rubicilloides
+1425,Great rosefinch,Carpodacus rubicilla
+1426,Blyth's rosefinch,Carpodacus grandis
+1427,Himalayan beautiful rosefinch,Carpodacus pulcherrimus
+1428,Pink-rumped rosefinch,Carpodacus waltoni
+1429,Pink-browed rosefinch,Carpodacus rodochroa
+1430,Dark-rumped rosefinch,Carpodacus edwardsii
+1431,Spot-winged rosefinch,Carpodacus rodopeplus
+1432,Vinaceous rosefinch,Carpodacus vinaceus
+1433,Pale rosefinch,Carpodacus stoliczkae
+1434,Himalayan white-browed rosefinch,Carpodacus thura
+1435,Chinese white-browed rosefinch,Carpodacus dubius
+1436,Red-fronted rosefinch,Carpodacus puniceus
+1437,Crimson-browed finch,Carpodacus subhimachalus
+1438,European greenfinch,Chloris chloris
+1439,Yellow-breasted greenfinch,Chloris spinoides
+1440,Black-headed greenfinch,Chloris ambigua
+1441,Desert finch,Rhodospiza obsoleta
+1442,Twite,Linaria flavirostris
+1443,Common linnet,Linaria cannabina
+1444,Red crossbill,Loxia curvirostra
+1445,European goldfinch,Carduelis carduelis
+1446,Red-fronted serin,Serinus pusillus
+1447,Tibetan serin,Spinus thibetanus
+1448,Eurasian siskin,Spinus spinus
+1449,Common name,Binomial
+1450,Crested bunting,Emberiza lathami
+1451,Yellowhammer,Emberiza citrinella
+1452,Pine bunting,Emberiza leucocephalos
+1453,Rock bunting,Emberiza cia
+1454,Godlewski's bunting,Emberiza godlewskii
+1455,White-capped bunting,Emberiza stewarti
+1456,Grey-necked bunting,Emberiza buchanani
+1457,Ortolan bunting,Emberiza hortulana
+1458,Striolated bunting,Emberiza striolata
+1459,Tristram's bunting,Emberiza tristrami
+1460,Chestnut-eared bunting,Emberiza fucata
+1461,Little bunting,Emberiza pusilla
+1462,Yellow-browed bunting,Emberiza chrysophrys
+1463,Rustic bunting,Emberiza rustica
+1464,Yellow-breasted bunting,Emberiza aureola
+1465,Chestnut bunting,Emberiza rutila
+1466,Black-headed bunting,Emberiza melanocephala
+1467,Red-headed bunting,Emberiza bruniceps
+1468,Black-faced bunting,Emberiza spodocephala
+1469,Common reed bunting,Emberiza schoeniclus
+1470,Fulvous whistling duck,Dendrocygna bicolor
