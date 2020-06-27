@@ -46,11 +46,3 @@ if __name__ == '__main__':
 
     # GET DATA BASED ON COLUMNS
     db.db_close()
-
-
-
-
-
-
-
-

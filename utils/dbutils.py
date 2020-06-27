@@ -82,6 +82,19 @@ class DbUtils():
 
         return result
 
+    def get_species_id(self,species):
+        """Returns all species from species table"""
+        session = self.db_session_maker()
+        try:
+            result = session.query(self.species.columns.id).filter(self.species.columns.common_name == species).first()
+        except:
+            return None
+        finally:
+            session.close()
+
+        return result
+
+
 
     def get_common_names(self):
         """
@@ -103,7 +116,7 @@ class DbUtils():
         """Get the scientific name based on the """
         session = self.db_session_maker()
         try:
-            result = session.query(self.species.columns.scientific_name).filter(self.species.columns.id == species_id).all()
+            result = session.query(self.species.columns.scientific_name).filter(self.species.columns.id == species_id).first()
         except:
             return None
         finally:
@@ -133,6 +146,3 @@ class DbUtils():
                 session.rollback()
             finally:
                 session.close()
-
-
-
