@@ -4,7 +4,7 @@ from utils.dbutils import DbUtils
 from utils.pathutils import PathUtils
 import constants
 
-
+#Get value
 def ddvalue(event):
         global SpeciesId
         SpeciesId = db.get_species_id(Species.get())[0]
